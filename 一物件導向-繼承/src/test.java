@@ -111,8 +111,8 @@ class Scooter extends vehicle{
 public class test {
 
 	public static void main(String[] args) {
-		// new實體的汽車object並且給值
-		Car car = new Car("汽車", "白色", 4, 4);  
+	// new實體的汽車object並且給值
+	Car car = new Car("汽車", "白色", 4, 4);  
         System.out.println(car.show());             
 
         // new實體的機車object並且給值
